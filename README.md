@@ -10,9 +10,9 @@ Throughout this task, I:
 
 - Learned to install ubuntu by dual booting 
 - Got to know how to use Git and Github
-- Learned about bashscripting which is a new concept for me
+- Learned about bashscripting 
 - Understood new concepts of Filters, 3D and 4D rotation systems,Path finding with Matrix
-- worked with python libraries such as collections
+- Worked with python libraries such as collections
 - Had fun time doing all the other Problems 
 
 ---
@@ -21,7 +21,8 @@ Throughout this task, I:
 
 ### **Medium_1**:
 
-  - Euclidean distance between two points: \(\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\)
+  - Euclidean distance between two points:
+        \(\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\)
 
 ##
 
@@ -85,7 +86,7 @@ Throughout this task, I:
 
 
 
-      ![rsd vs filter](https://github.com/fida22/Mars_task1/blob/9f95107b63ba39e49381d643d9f49e272361df65/photos_for_readme/RSD%20VS%20FILTER.png)
+      ![z score](https://github.com/fida22/Mars_task1/blob/9f95107b63ba39e49381d643d9f49e272361df65/photos_for_readme/RSD%20VS%20FILTER.png)
 
 
 
@@ -100,18 +101,23 @@ Throughout this task, I:
 
 
     
-      ![rsd vs filter](https://github.com/fida22/Mars_task1/blob/d5a7bfe86de85ba81f608b48784bcb273de14a7b/photos_for_readme/euler%20to%20quaternion%20formula.png)
+      ![Formula euler to quternion](https://github.com/fida22/Mars_task1/blob/d5a7bfe86de85ba81f608b48784bcb273de14a7b/photos_for_readme/euler%20to%20quaternion%20formula.png)
 
 
 
 
+##
 
 
+### **Hard_1** : 
+  - Rough sketch of map based on sample.txt given in question
+
+    ![rough map sketch](https://github.com/fida22/Mars_task1/blob/663bc0d20e4a1649616844753f0ac4011278ca98/photos_for_readme/rough%20map%20sketch.jpg)
 
 ---
 
 
-## 📼 Approach & Thought Process
+##  Approach & Thought Process
 
 
 ### ***Bash scripting***
@@ -250,7 +256,7 @@ Throughout this task, I:
   - ***Final Output*** :
     
     - The map is printed
-      ![rsd vs filter](https://github.com/fida22/Mars_task1/blob/d63f3bffb14dfb77fabedc09bc1d5755b2b12550/photos_for_readme/map.jpg)
+ 
 
 
 ---
