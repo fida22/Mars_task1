@@ -115,8 +115,9 @@ Throughout this task, I:
 
 
 ### ***Bash scripting***
-  ***Learnings***
-    ![rsd vs filter](https://github.com/fida22/Mars_task1/blob/d63f3bffb14dfb77fabedc09bc1d5755b2b12550/photos_for_readme/bashscirpting%20learning.jpg)
+  ***Learnings***:
+  
+  ![rsd vs filter](https://github.com/fida22/Mars_task1/blob/d63f3bffb14dfb77fabedc09bc1d5755b2b12550/photos_for_readme/bashscirpting%20learning.jpg)
   
 
 
