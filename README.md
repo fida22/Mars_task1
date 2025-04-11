@@ -193,8 +193,7 @@ Throughout this task, I:
 
     - A set of data was given in log.txt
     - extracted the data using file handling in python and stored it in list name data
-    - `y` represents **forward and backward** movement.
-    - `x` represents **left and right** movement.
+   
 
   - ***Reasoning*** :
 
